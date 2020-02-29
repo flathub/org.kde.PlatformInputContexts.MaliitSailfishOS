@@ -6,3 +6,5 @@ of the application (minimized or active) and screen orientation through communic
 with [Flatpak Runner](https://github.com/sailfishos-flatpak/flatpak-runner).
 
 This is packaged as a PlatformInputContexts extension for KDE Flatpak Platform.
+
+This is 5.12 branch.
